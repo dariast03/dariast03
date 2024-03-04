@@ -4,8 +4,7 @@
 **Enthusiast web developer** 
 <br>
 <br>
-<img src="[https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white](https://img.shields.io/badge/next%20js-00C58E?style=for-the-badge&logo=next.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
+<img src="https://img.shields.io/badge/next%20js-00C58E?style=for-the-badge&logo=next.js&logoColor=black"/> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <br>
@@ -16,8 +15,8 @@
   ## About me &#128513;
   <p>
   <b>
-  I am Date a lover of technology &#128525; passionate about front end development, I work on my projects with React/Next a front framework that I really like.
-  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
+  I am Dante a lover of technology &#128525; passionate about front end development, I work on my projects with React/Next a front framework that I really like.
+  I'm currently learning react-native and nestjs (wooaaahh fullstack JS &#128526;).
   i like to learn new technology and update myself. i also like to contribute in open sources projects
 
 
