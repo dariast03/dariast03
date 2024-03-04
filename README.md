@@ -58,6 +58,6 @@
 <br />
 
 
-Credit: [Schleidens.Dev](https://github.com/dariast03)
+Credit: [Dariast03](https://github.com/dariast03)
 
 Last Edited on: 14/01/024
